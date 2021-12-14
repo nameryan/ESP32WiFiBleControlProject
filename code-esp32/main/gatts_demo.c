@@ -46,6 +46,8 @@ typedef struct __User_data
 
 User_data user_data;
 
+
+//ryan add test log
 ///Declare the static function
 static void gatts_profile_a_event_handler(esp_gatts_cb_event_t event, esp_gatt_if_t gatts_if, esp_ble_gatts_cb_param_t *param);
 
